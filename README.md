@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning microservices architecture and Amazon Web Services.<br>🎯 Goals: become full-time Java Devloper and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning microservices architecture and Amazon Web Services.<br>🎯 Goals: become full-time Java Developer and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
 
 ###
 
