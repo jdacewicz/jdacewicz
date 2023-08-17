@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning microservices architecture and Amazon Web Services.<br>🎯 Goals: become full-time Java Developer and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Angular framework and TypeScript.<br>🎯 Goals: become full-time Java Developer and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
 
 ###
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
