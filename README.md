@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jakub and I'm a Java Developer, from Poland 🙂</p>
+<p align="left">My name is Jakub and I'm a Junior Java Developer, from Poland 🙂</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Angular framework and TypeScript.<br>🎯 Goals: become full-time Java Developer and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Angular framework and TypeScript.<br>🎯 Goals: become full-time Junior Java Developer and create something amazing!<br>🎲 Fun fact: before trying Backend I was wondering about becoming Frontend Developer 😶</p>
 
 ###
 
